@@ -1,2 +1,2 @@
-content-with-newline: foo\nbar\n
+content-with-newline: "foo\nbar\n"
 variable-template: ${content-with-newline}
