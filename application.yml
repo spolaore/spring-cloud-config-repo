@@ -1,1 +1,1 @@
-content-with-newline: foo\nbar\n
+content-with-newline: "foo\nbar\n"
